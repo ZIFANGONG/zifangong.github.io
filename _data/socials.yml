@@ -3,12 +3,12 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: zifan.gong@my.cityu.edu.hk # your email address
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 dblp_url: https://dblp.org/pid/304/3998
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://fontawesome.com/icons/square-linkedin?f=brands&s=solid
+  logo: fa-brands fa-square-linkedin
   title: Linkedin
   url: https://www.linkedin.com/in/zifan-gong-9581171b8/
