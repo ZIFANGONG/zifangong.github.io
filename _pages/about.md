@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> PhD candidate, Class of 2026, Computer Sc
 
 profile:
   align: right
-  image: zifan_pic.jpg
+  image: zifan_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>216L</p>
