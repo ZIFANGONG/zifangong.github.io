@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD candidate, Class of 2026, Computer Science,  <a href='https://www.cityu.edu.hk/' target="_blank">City University of Hong Kong</a> 
 
