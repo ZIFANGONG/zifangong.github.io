@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: One paper accepted by AAMAS 2026.
 date: 2025-12-19 23:00:00+0800
 inline: false
 related_posts: false
