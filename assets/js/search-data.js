@@ -41,8 +41,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-the-capacity-constrained-facility-location-problem-with-ordinal-preferences-algorithmic-and-mechanism-design-perspectives-was-accepted-by-ijtcs-faw",
           title: 'Our paper “The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-accepted-by-aamas-2026",
+          title: 'One paper accepted by AAMAS 2026.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
