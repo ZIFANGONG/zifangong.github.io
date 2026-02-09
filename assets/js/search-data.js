@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "α-β authors are listed in alphabetical order. ( Why? )",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -35,18 +35,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-joined-antgroup-as-an-research-intern-in-hangzhou",
-          title: 'I joined AntGroup as an research intern in HangZhou.',
+            },},{id: "news-i-joined-antgroup-as-a-research-intern-in-hangzhou",
+          title: 'I joined AntGroup as a research intern in HangZhou.',
           description: "",
           section: "News",},{id: "news-our-paper-the-capacity-constrained-facility-location-problem-with-ordinal-preferences-algorithmic-and-mechanism-design-perspectives-was-accepted-by-ijtcs-faw",
           title: 'Our paper “The Capacity-Constrained Facility Location Problem with Ordinal Preferences: Algorithmic and Mechanism...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
