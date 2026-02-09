@@ -9,8 +9,8 @@ profile:
   image: zifan_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>216L</p>
-    <p>InnoCentre, 72 Tat Chee Avenue</p>
+    <p>216L, InnoCentre</p>
+    <p>72 Tat Chee Avenue</p>
     <p>Hong Kong</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,11 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate  in Computer Science supervised by <a href="https://www.cs.cityu.edu.hk/~minmli/" target="_blank"> Professor. Minming Li</a>
+I am a PhD candidate supervised by <a href="https://www.cs.cityu.edu.hk/~minmli/" target="_blank"> Professor. Minming Li</a>
 
-I received my BSc in Computer Science from CityU Hong Kong in June 2022.
-
-I'm interested in algorithmic mechanism design and computational social choice.
+I received my BSc in Computer Science from CityU Hong Kong in June 2022. I'm interested in algorithmic mechanism design and computational social choice.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
