@@ -8,7 +8,7 @@ profile:
   align: right
   image: zifan_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>216L, InnoCentre</p>
     <p>72 Tat Chee Avenue</p>
     <p>Hong Kong</p>
