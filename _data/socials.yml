@@ -20,7 +20,7 @@ custom_social: # can be any name here other than the ones already defined in the
 custom_social_2: 
   logo: fa-brands fa-weixin
   title: Wechat
-  url: https://zifangong.github.io/assets/img/wechat-qr.png
+  url: https://zifangong.github.io/assets/img/wechat_qr.png
 
 
 
