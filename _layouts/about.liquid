@@ -69,6 +69,18 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% social_links %}</div>
 
+        {% if site.wechat_qr %}
+          <div class="wechat-wrapper">
+            <a href="javascript:void(0);" class="wechat-btn" title="WeChat">
+              <i class="fab fa-weixin"></i>
+            </a>
+            <div class="qr-tooltip">
+              <img src="{{ site.wechat_qr | relative_url }}" alt="WeChat QR Code">
+              <p>微信二维码</p>
+            </div>
+          </div>
+        {% endif %}
+
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}

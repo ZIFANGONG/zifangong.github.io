@@ -7,7 +7,7 @@ email: zifan.gong@my.cityu.edu.hk # your email address
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 dblp_url: https://dblp.org/pid/304/3998
 # linkedin_username: zifan-gong-9581171b8
-wechat_username: /assets/img/wechat-qr.png
+wechat_qr: /assets/img/wechat-qr.png
 # wechat_username: zifangong # your WeChat username (if you want to display the WeChat icon, you need to provide either wechat_username or wechat_qr)
 # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -15,5 +15,12 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: fa-brands fa-square-linkedin
   title: Linkedin
   url: https://www.linkedin.com/in/zifan-gong-9581171b8/
+
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: fa-brands fa-square-linkedin
+  title: Linkedin
+  url: https://www.linkedin.com/in/zifan-gong-9581171b8/
+
+
 
 
